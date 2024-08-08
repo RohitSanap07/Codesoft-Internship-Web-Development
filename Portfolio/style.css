@@ -92,19 +92,19 @@ body {
     display: flex;
     align-items: center;
     background-image: linear-gradient(4deg, #363D73, #2794B3);
-    justify-content: space-around;
+    justify-content: space-between;
     width: 100%;
 }
 
 .about .about-text {
     width: 600px;
     color: #fff;
-    padding: 10px 10px 10px 50px;
+    padding: 10px 10px 10px 40px;
 }
 
 .about .about-image img {
-    height: 300px;
-    width: 320px;
+    height: 280px;
+    width: 300px;
 }
 
 /* Portfolio section styles */
