@@ -96,3 +96,94 @@ ul li{
 .sub-heading{
     color: black;
 }
+
+@media (max-width: 768px) {
+
+
+    .img img{
+        display: none;
+    
+    }
+
+
+    nav{
+        display: flex;
+        justify-content: space-around;
+        color: #9900cc;
+        margin-left: 10px;
+        font-size: 25px;
+        font-weight: bold;
+       }
+
+       ul li{
+        list-style: none;
+        margin-inline:10px;
+    }
+    .btn {
+        margin-top: 30px;
+    }
+
+    nav h1{
+        font-size: 30px;
+        color: #9900cc;
+        border-top: 5px solid #9900cc;;
+        border-bottom: 5px solid #9900cc;
+        border-radius: 20px ;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .img img{
+        display: none;
+    
+    }
+
+
+    nav{
+        display: flex;
+        justify-content: space-around;
+        color: #9900cc;
+        margin-left: 5px;
+        font-size: 15px;
+        font-weight: bold;
+       }
+
+       ul li{
+        list-style: none;
+        margin-inline:10px;
+    }
+    .btn {
+        margin-top: 20px;
+    }
+
+
+    .head button{
+        width: 100px;
+        height: 40px;
+        background-color:  #9900cc;
+        color: white;
+        font-size:15px;
+        border-radius: 4px;
+        margin-top: 5px;
+    
+    }
+
+
+    nav h1{
+        font-size: 30px;
+        color: #9900cc;
+        border-top: 5px solid #9900cc;;
+        border-bottom: 5px solid #9900cc;
+        border-radius: 20px ;
+    }
+
+    .main-div .head{
+        font-size: 30px;
+        margin-left:40px;
+        margin-top: 70px;
+    
+    
+    }    
+
+}
