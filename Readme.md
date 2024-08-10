@@ -3,14 +3,18 @@ Welcome to the repository showcasing the projects I completed during my web deve
 
 ## Projects Included :
 
-1. Landing Page
+### 1. Landing Page
 This project is a modern landing page designed to engage users and provide essential information at a glance. It features a streamlined layout, engaging visuals, and clear calls to action, making it an ideal template for marketing or product-related websites.
+![Landingpage](Landing page.png)
 
-2. Personal Portfolio
+### 2. Personal Portfolio
 A responsive and visually appealing portfolio that highlights my skills, projects, and professional journey. This project focuses on clean design principles and an intuitive user experience, providing a comprehensive overview of my work and achievements.
+![Portfolio](Portfolio.png)
 
-3. Calculator
+### 3. Calculator
 A functional calculator created using HTML, CSS, and JavaScript. This project showcases my ability to implement JavaScript logic to handle user input and perform basic arithmetic operations. The calculator is fully responsive and styled with CSS to enhance user interaction.
+![Calculator](Calculator)
+
 
 ## Technologies Used :
 HTML: For structuring content and providing the framework for each project.
