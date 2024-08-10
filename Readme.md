@@ -17,11 +17,11 @@ A functional calculator created using HTML, CSS, and JavaScript. This project sh
 
 
 ## Technologies Used :
-HTML: For structuring content and providing the framework for each project.
-CSS: For styling the projects, ensuring they are visually appealing and responsive.
-JavaScript: For adding interactivity and functionality, particularly in the calculator project.
+1. HTML: For structuring content and providing the framework for each project.
+2. CSS: For styling the projects, ensuring they are visually appealing and responsive.
+3. JavaScript: For adding interactivity and functionality, particularly in the calculator project.
 
-About This Repository
+## About This Repository :
 This repository serves as a testament to my learning and progress in web development during my time at CodSoft. Each project was an opportunity to apply theoretical knowledge in a practical setting, reinforcing my understanding of web development principles and practices.
 
 ## License
@@ -29,18 +29,6 @@ This repository serves as a testament to my learning and progress in web develop
 This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code as long as you include the original copyright and disclaimers. Refer to the LICENSE file for more details.
 
 
-## Projects
 
-
-**Landing Page**
-- [Task 1](https://github.com/Rutujamurkut98/CodSoft-Web-Development-/tree/main/Calculatorg%20Page)
-
-**Portfolio**
-- [Task 2](https://github.com/Rutujamurkut98/CodSoft-Web-Development-/tree/main/Landing%20Page)
-
-**Calculator**
-- [Task 3](https://github.com/Rutujamurkut98/CodSoft-Web-Development-/tree/main/Portfolio)
-
----
 
 
