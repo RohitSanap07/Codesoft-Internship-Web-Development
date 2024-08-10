@@ -24,9 +24,6 @@ A functional calculator created using HTML, CSS, and JavaScript. This project sh
 ## About This Repository :
 This repository serves as a testament to my learning and progress in web development during my time at CodSoft. Each project was an opportunity to apply theoretical knowledge in a practical setting, reinforcing my understanding of web development principles and practices.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code as long as you include the original copyright and disclaimers. Refer to the LICENSE file for more details.
 
 
 
