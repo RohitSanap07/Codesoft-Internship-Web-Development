@@ -17,9 +17,10 @@ A functional calculator created using HTML, CSS, and JavaScript. This project sh
 
 
 ## Technologies Used :
-**HTML:** For structuring content and providing the framework for each project.
-**CSS:** For styling the projects, ensuring they are visually appealing and responsive.
-**JavaScript:** For adding interactivity and functionality, particularly in the calculator project.
+HTML: For structuring content and providing the framework for each project.
+CSS: For styling the projects, ensuring they are visually appealing and responsive.
+JavaScript: For adding interactivity and functionality, particularly in the calculator project.
+
 About This Repository
 This repository serves as a testament to my learning and progress in web development during my time at CodSoft. Each project was an opportunity to apply theoretical knowledge in a practical setting, reinforcing my understanding of web development principles and practices.
 
