@@ -5,7 +5,7 @@ Welcome to the repository showcasing the projects I completed during my web deve
 
 ### 1. Landing Page
 This project is a modern landing page designed to engage users and provide essential information at a glance. It features a streamlined layout, engaging visuals, and clear calls to action, making it an ideal template for marketing or product-related websites.
--![Landingpage](Landing page.png)
+![Landing page](page.png)
 
 ### 2. Personal Portfolio
 A responsive and visually appealing portfolio that highlights my skills, projects, and professional journey. This project focuses on clean design principles and an intuitive user experience, providing a comprehensive overview of my work and achievements.
