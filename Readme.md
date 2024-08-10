@@ -9,11 +9,11 @@ This project is a modern landing page designed to engage users and provide essen
 
 ### 2. Personal Portfolio
 A responsive and visually appealing portfolio that highlights my skills, projects, and professional journey. This project focuses on clean design principles and an intuitive user experience, providing a comprehensive overview of my work and achievements.
--![Portfolio](Portfolio.png)
+![Portfolio](Portfolio.png)
 
 ### 3. Calculator
 A functional calculator created using HTML, CSS, and JavaScript. This project showcases my ability to implement JavaScript logic to handle user input and perform basic arithmetic operations. The calculator is fully responsive and styled with CSS to enhance user interaction.
--![Calculator](Calculator.png)
+![Calculator](Calculator.png)
 
 
 ## Technologies Used :
