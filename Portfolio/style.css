@@ -92,7 +92,7 @@ body {
     display: flex;
     align-items: center;
     background-image: linear-gradient(4deg, #363D73, #2794B3);
-    justify-content: space-between;
+    justify-content: space-around;
     width: 100%;
 }
 
@@ -103,8 +103,9 @@ body {
 }
 
 .about .about-image img {
-    height: 280px;
-    width: 300px;
+    height: 300px;
+    width: 330px;
+    margin-top: 90px;
 }
 
 /* Portfolio section styles */
@@ -167,15 +168,15 @@ body {
 }
 
 .project-img{
-    height:240px; 
-    width:350px;
+    height:200px; 
+    width:300px;
     border-radius: 3px;
 
 }
 
 .icon {
-    height: 250px;
-    width: 360px;
+    height: 210px;
+    width: 310px;
     border-radius: 3%;
     background-color: #363D73;
     display: flex;
@@ -275,8 +276,13 @@ body {
 }
 
 .my-heading {
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin: 0;
+}
+.my-heading1{
+    font-size: 1.5rem;
+    margin: 0;
+
 }
 
 .sub-heading {
